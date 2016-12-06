@@ -1,0 +1,15 @@
+div.first-third {
+	width: 30%
+	float: left;
+	margin-right: 5%
+}
+
+div.third {
+	margin: 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0 0 10px 0;
+}

@@ -1,0 +1,19 @@
+div.first-third {
+	width: 47.5%;
+}
+
+div.second-third {
+	margin: 0;
+}
+
+div.third {
+	
+}
+
+@media sreen and (max-width: 500px) {
+	div.mobile-shrink {
+		width: auto;
+		float: none;
+		margin-right: 0;
+	}
+}
